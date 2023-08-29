@@ -1,0 +1,7 @@
+echo "#RepositorioHenry" >> README.md
+git init
+gid add README.md
+git commit -m "CarpetaHenry"
+git rama -M principal
+git remoto agregar origen https://github.com/Meli9727/RepositorioHenry.git
+ git push - su origen principal
